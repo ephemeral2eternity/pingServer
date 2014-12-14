@@ -2,7 +2,7 @@
 import socket
 import time
 
-ip = "127.0.0.1"
+ip = "104.155.12.247"
 port = 8717
 # Connect to the server
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
